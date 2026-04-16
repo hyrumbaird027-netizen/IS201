@@ -1,0 +1,44 @@
+body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;
+            color: gray;
+            background-color: antiquewhite;
+        }
+     a {
+            
+            text-decoration: none;
+            color: gray;
+            font-weight: bold;
+        }
+    a:hover {
+        text-decoration: underline;
+    }
+    a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+    
+    .bold{
+        font-weight: bold;
+        
+    }
+
+    li{
+        font-weight: normal;
+        
+    }
+
+    .justify{
+        text-align: justify;
+        padding-left: 20px;
+        padding-right: 20px;
+        
+    }
+    .homebg{
+        background-image: url('../images/timp.jpg');
+        background-position: top right;
+        background-size: cover;
+    }
+    .aligned{
+        text-align: center;
+    }
